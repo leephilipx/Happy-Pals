@@ -13,7 +13,7 @@ Several one-of-its-kind features have been implemented into this web application
 
 ## Table of Contents
 
-1. Features
+1. [Features](#features)
 2. Technical Implementation
 3. Future Works
 4. Acknowledgments
