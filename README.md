@@ -10,6 +10,7 @@ https://happy-pals.appspot.com/ &nbsp;*Proudly presented to you by Team Ekspansy
 5. [Acknowledgements](#acknowledgements)
 
 <br>
+
 ## Motivation
 
 COVID-19 has affected every individual’s everyday lifestyle in one way or the other including personal and professional life, mental wellbeing, interaction with families, social life, etc. Some statistics from the World Health Organisation [here](https://www.who.int/news-room/fact-sheets/detail/adolescent-mental-health) indicated that half of all mental health conditions start by 14 years of age but most cases are undetected and untreated. At the same time, depression is one of the leading causes of illness and disability among adolescents globally.  
@@ -19,6 +20,7 @@ Focusing on the **Mental Health** issue, our team Ekspanyion, consisting of 3 me
 Several one-of-its-kind features have been implemented into this web application. These features include imagery meditation, soothing music playlist, fun destressing videos and videos for laughs! Users will find themselves immersed in a sanctuary of calmness. Everybody needs a rest from time to time. To enhance engagement with users, there is a point-based in-game reward system, in which users can exchange accumulated points for a cute plushie.
 
 <br>
+
 ## Features
 
 ### Welcome & Login Page
@@ -71,6 +73,7 @@ AI Chatbot
 <img src="readme_media/chatbot_structure.png" width="800">
 
 <br>
+
 ## Future Works
 
 - Media resources can be obtained by partnership with govermental organisations that are in charge of mental health
@@ -78,6 +81,7 @@ AI Chatbot
 - Work hand in hand with mental health professionals to develop more relevant content and resources
 
 <br>
+
 ## Acknowledgements
 
 - We utilized https://nicepage.com/ to build our HTML pages and expedite the design and layout process
