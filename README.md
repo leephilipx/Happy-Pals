@@ -58,7 +58,7 @@ Tune in to our Just for Laughs/Dance videos for a heartful of laughter and endle
 ## Technical Implementation
 
 Web Application
-- The web app is built using HTML, CSS, Javascript and PHP to handle special interactions with the use.
+- The web app is built using HTML, CSS, Javascript and PHP to handle special interactions with the user.
 - It was then deployed on Google Cloud Platform's Compute App Engine to be hosted as a Apache server.
 - The MySQL instance on Google Cloud Platform did not interface well with GCP's Compute App Enginer so we ended up using FreeMySQLhosting.net to host the MySQL server.
 - Login credentials are stored in their hashed form to ensure that the individual is non-traceable.
